@@ -21,9 +21,9 @@ because the annulus is just a cylinder with a hole cut through it.
 
 Here are some of the generated shapes:
 ![Figure 1](images/cylinder.png)
-![Figure 1](results/cone.png)
-![Figure 1](results/annulus.png)
-![Figure 1](results/sphere.png)
+![Figure 1](images/cone.png)
+![Figure 1](images/annulus.png)
+![Figure 1](images/sphere.png)
 
 
 ## References
