@@ -24,6 +24,7 @@ Here are some of the generated shapes:
 ![Figure 1](images/cone.png)
 ![Figure 1](images/annulus.png)
 ![Figure 1](images/sphere.png)
+![Figure 1](images/results.png)
 
 
 ## References
